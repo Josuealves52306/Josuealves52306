@@ -74,7 +74,8 @@ Sou apaixonado por tecnologia e qualidade, e venho me especializando em testes d
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=JosueAlves52306&show_icons=true&theme=dark&incluede_all_commits=true&locale=pt-br" 
   />
-
+<br/>
+<br/>
 <img 
       align="left" 
       alt="GitHub Stats" 
