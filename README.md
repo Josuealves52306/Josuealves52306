@@ -5,13 +5,10 @@
 Me chamo Josué Alves de Almeida, tenho 28 anos, sou de São Paulo - SP e formado em Gestão da Tecnologia da Informação.
 Sou apaixonado por tecnologia e qualidade, e venho me especializando em testes de software, com foco em:
 
-Testes de API
-
-BDD
-
-Automação com Java
-
-Metodologias ágeis
+° Testes de API
+° BDD
+° Automação com Java
+° Metodologias ágeis
 
 Atualmente, atuo com suporte técnico e análise de bugs em sistemas hospitalares, usando PostgreSQL e validando erros junto ao time de desenvolvimento.
 Em uma experiência anterior, também trabalhei com testes de performance utilizando Apache JMeter.
