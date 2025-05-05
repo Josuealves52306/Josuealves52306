@@ -2,10 +2,21 @@
 
 **`Analista de QA`**
 
-Me chamo Josué Alves de Almeida, tenho 28 anos e sou natural de São Paulo. Sou formado em Gestão da Tecnologia da Informação pela Universidade Nove de Julho e estou em transição para a área de Qualidade de Software. Atuo atualmente com suporte técnico e análise de bugs em sistemas hospitalares, onde desenvolvi habilidades práticas em testes manuais, uso de PostgreSQL, validação de erros e comunicação com o time de desenvolvimento.
+Me chamo Josué Alves de Almeida, tenho 28 anos, sou de São Paulo - SP e formado em Gestão da Tecnologia da Informação.
+Sou apaixonado por tecnologia e qualidade, e venho me especializando em testes de software, com foco em:
 
-Sou apaixonado por tecnologia e qualidade, e venho me especializando em testes de software, com foco em testes de API, BDD, automação com Java e metodologias ágeis. Busco minha primeira oportunidade como Analista de Testes de Software / QA Júnior, onde eu possa contribuir com minha experiência, aprender com o time e crescer na área de qualidade de software.
+Testes de API
 
+BDD
+
+Automação com Java
+
+Metodologias ágeis
+
+Atualmente, atuo com suporte técnico e análise de bugs em sistemas hospitalares, usando PostgreSQL e validando erros junto ao time de desenvolvimento.
+Em uma experiência anterior, também trabalhei com testes de performance utilizando Apache JMeter.
+
+💼 Busco minha primeira oportunidade como Analista de Testes de Software / QA Júnior, onde eu possa contribuir, aprender e crescer na área de qualidade de software..
 
 
 
