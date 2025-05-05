@@ -48,16 +48,16 @@ Sou apaixonado por tecnologia e qualidade, e venho me especializando em testes d
 />
 <img 
     align="left" 
-    alt="Swagger" 
-    title="Swagger"
+    alt="Selenium" 
+    title="Selenium"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" 
 />
 <img 
     align="left" 
-    alt="Selenium" 
-    title="Selenium"
+    alt="Swagger" 
+    title="Swagger"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" 
