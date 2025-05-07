@@ -63,6 +63,16 @@ Em uma experiência anterior, também trabalhei com testes de performance utiliz
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" 
 />
+
+<!-- JUnit -->
+<img 
+    align="left" 
+    alt="JUnit" 
+    title="JUnit / TDD"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://junit.org/junit5/assets/img/junit5-logo.svg" 
+/>
 <img 
     align="left" 
     alt="Swagger" 
